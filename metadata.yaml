@@ -1,0 +1,26 @@
+_repo: Menschenwee-b-Roman-van-het-land_71767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Querido, Israel
+    gutenberg_agent_id: '56388'
+    url: http://www.gutenberg.org/2009/agents/56388
+description: ''
+gutenberg_issued: '2023-09-30'
+identifiers:
+  gutenberg: '71767'
+language: nl
+pgterms:marc904: https://www.joodsebibliotheek.nl/auteur/XEo/Israel-Querido/boek/WEo/Menschenwee-Eerste-boek-Winter/1/
+pgterms:marc905: 20200519073000querido
+pgterms:marc906: '1903'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aHaarlem :$bDe Erven F. Bohn, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Menschenwee : $b Roman van het land'
+url: http://www.gutenberg.org/ebooks/71767
