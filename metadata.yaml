@@ -1,11 +1,16 @@
 _repo: Menschenwee-b-Roman-van-het-land_71767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71767-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Querido, Israel
     gutenberg_agent_id: '56388'
     url: http://www.gutenberg.org/2009/agents/56388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71767#Menschenwee-b-Roman-van-het-land
 gutenberg_issued: '2023-09-30'
 identifiers:
   gutenberg: '71767'
